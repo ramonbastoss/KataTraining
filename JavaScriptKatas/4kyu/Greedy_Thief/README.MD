@@ -1,3 +1,6 @@
+
+https://www.codewars.com/kata/58296c407da141e2c7000271/train/javascript
+
 Description:
 In a dark, deserted night, a thief entered a shop. There are some items in the room, and the items have different weight (in kg) and price (in $).
 
