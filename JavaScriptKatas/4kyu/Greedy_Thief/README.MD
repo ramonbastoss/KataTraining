@@ -24,6 +24,7 @@ Examples
 For a list of the following available items:
 
 weight	price
+
 2	      6
 2	      3
 6	      5
