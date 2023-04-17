@@ -35,9 +35,7 @@ weight	price
 
 4	      6
 ... and with a maximum weight of n=10, the best option could be a total price of 15$, collecting the following items:
-
-weight	price
-2	6
-2	3
-4	6
-More examples please see the example tests ;-)
+Weight Price
+2      6
+2      3
+4      6
