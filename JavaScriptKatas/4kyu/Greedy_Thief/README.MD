@@ -39,6 +39,7 @@ weight	price
 4	      6
 
 ... and with a maximum weight of n=10, the best option could be a total price of 15$, collecting the following items:
+
 Weight Price
 
 2      6
