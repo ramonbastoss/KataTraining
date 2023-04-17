@@ -1,3 +1,6 @@
+
+https://www.codewars.com/kata/58296c407da141e2c7000271/train/javascript
+
 Description:
 In a dark, deserted night, a thief entered a shop. There are some items in the room, and the items have different weight (in kg) and price (in $).
 
@@ -24,15 +27,24 @@ Examples
 For a list of the following available items:
 
 weight	price
-2	6
-2	3
-6	5
-5	4
-4	6
+
+2	      6
+
+2	      3
+
+6	      5
+
+5	      4
+
+4	      6
+
 ... and with a maximum weight of n=10, the best option could be a total price of 15$, collecting the following items:
 
-weight	price
-2	6
-2	3
-4	6
-More examples please see the example tests ;-)
+Weight Price
+
+2      6
+
+2      3
+
+4      6
+
